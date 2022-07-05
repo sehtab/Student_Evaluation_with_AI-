@@ -1,0 +1,9 @@
+Flask==1.1.2
+ipywidgets==7.5.1
+matplotlib==3.2.2
+numpy==1.19.5
+pandas==1.0.5
+scikit_learn==1.1.1
+seaborn==0.10.1
+streamlit==1.9.0
+xgboost==1.2.0
